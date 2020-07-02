@@ -5,37 +5,37 @@
       "path": "/sap/opu/odata",
       "target": {
         "type": "destination",
-        "name": "OVLY_S4",
+        "name": "!!!SUA_DESTINATION_AQUI!!!!",
         "entryPath": "/sap/opu/odata"
       },
-      "description": "OVLY - S4 1809"
+      "description": "Ambiente S/4"
     },
     {
       "path": "/sap/opu/odata",
       "target": {
         "type": "destination",
-        "name": "OVLY_S4",
+        "name": "!!!SUA_DESTINATION_AQUI!!!!",
         "entryPath": "/sap/opu/odata"
       },
-      "description": "OVLY - S4 1809"
+      "description": "Ambiente S/4"
     },
     {
       "path": "/sap/opu/odata",
       "target": {
         "type": "destination",
-        "name": "OVLY_S4",
+        "name": "!!!SUA_DESTINATION_AQUI!!!!",
         "entryPath": "/sap/opu/odata"
       },
-      "description": "OVLY - S4 1809"
+      "description": "Ambiente S/4"
     },
     {
       "path": "/sap/bc/lrep",
       "target": {
         "type": "destination",
-        "name": "OVLY_S4",
+        "name": "!!!SUA_DESTINATION_AQUI!!!!",
         "entryPath": "/sap/bc/lrep"
       },
-      "description": "OVLY_S4"
+      "description": "Ambiente S/4"
     },
     {
       "path": "/resources",
